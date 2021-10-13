@@ -1,1 +1,7 @@
-{ "following": ["gitstagram"], "followingTags": [], "saved": [] }
+{
+  "following": [
+    "gitstagram"
+  ],
+  "followingTags": [],
+  "saved": []
+}
